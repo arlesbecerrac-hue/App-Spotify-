@@ -1,0 +1,6 @@
+{
+  "name": "ARLSIC",
+  "description": "Extractor de música, biblioteca organizada y reproductor de alta fidelidad estilo Spotify con interfaz clara y moderna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
